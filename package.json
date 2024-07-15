@@ -1,0 +1,12 @@
+{
+  "name": "utr-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "start": "node --env-file=.env fetch.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
